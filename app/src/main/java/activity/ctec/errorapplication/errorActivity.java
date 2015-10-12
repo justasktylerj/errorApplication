@@ -12,7 +12,7 @@ import android.widget.EditText;
 public class errorActivity extends AppCompatActivity
 {
 
-    private Button BaconButton;
+    private Button BaconButton;()
     private Button EggsButton;
     private EditText BaconText;
     @Override
